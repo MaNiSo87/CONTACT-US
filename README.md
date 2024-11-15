@@ -1,2 +1,4 @@
-date: 11/1/2023
-made by mani :)
+
+Made by Mani.
+
+11/01/2023
